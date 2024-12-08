@@ -1,5 +1,4 @@
 # STT-TTS-Pipeline-with-Jais-LLM-Integration
-# STT-TTS Pipeline with Jais LLM Integration**
 This project demonstrates the integration of Speech-to-Text (STT) and Text-to-Speech (TTS) with the **Jais 13B Language Model** to process and generate audio/text data. The project utilizes **Coqui TTS** for TTS, **Whisper** for STT, and **Jais LLM** for text generation. It is ideal for educational purposes and small-scale experiments.
 ## Project Overview
 
