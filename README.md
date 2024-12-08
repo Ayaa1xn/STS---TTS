@@ -11,18 +11,8 @@ This project demonstrates the integration of Speech-to-Text (STT) and Text-to-Sp
 4. **Audio Dataset**:
    - Uses **LibriSpeech UserLibri** dataset for testing. The dataset includes `.flac` files and associated metadata.
 ## **Folder Structure**
-project-folder/
-├── data/
-│   ├── input_audio/         # Contains raw input audio files
-│   ├── output_audio/        # Contains generated speech files from TTS
-│   └── transcripts/         # Contains transcribed text from STT
-├── notebooks/
-│   ├── stt_pipeline.ipynb   # Whisper-based STT implementation
-│   ├── tts_pipeline.ipynb   # Coqui TTS implementation
-│   ├── jais_pipeline.ipynb  # Jais LLM text processing
-├── offload_weights/         # Stores offloaded model weights for Jais LLM
-├── requirements.txt         # Dependencies
 └── README.md                # Project documentation
+**ANY FILES SUCH AS A .WAV FILE TO TEST THE MODEL OR A HUGGING FACE LOGIN OR A KAGGLE DATA SET CAN BE DOWNLOADED BY SELF**
 ## **Getting Started**
 
 ### **Prerequisites**
